@@ -1,5 +1,7 @@
 # ComicEscape
 
+> 📄 **[Download / View Proposal.pdf (Direct PDF)](Proposal.pdf)** — Official 2-Page Game Design Jam Proposal.
+
 A stylized 3D First-Person Comic Escape Room with an Anti-Gravity Twist built in Godot 4.x for a 100-Hour Game Jam.
 
 ## 👥 Development Team
